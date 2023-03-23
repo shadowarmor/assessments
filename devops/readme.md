@@ -30,7 +30,7 @@ The following sections describe what is required by you as a candidate for the a
 
 1. As a Junior DevOps engineer you are required to create a docker file that will build the `Divergent.Sales.API` component for the backend APIs so that they can be built on a developers machine. Please be sure to name the docker file and provide instructions for building the container image on the local machine.
 
-2. As a Junior DevOps engineer you are required to create a docker file that will build the `Divergent.Sales.API` component for the backend APIs so that they can be built on a developers machine. Please be sure to name the docker file and provide instructions for building the container image on the local machine.
+2. As a Junior DevOps engineer you are required to create a docker file that will build the `Divergent.Shipping.API` component for the backend APIs so that they can be built on a developers machine. Please be sure to name the docker file and provide instructions for building the container image on the local machine.
 
 3. As a Junior DevOps engineer you are required to create a docker file that will build the `Divergent.CompositionGateway` component for the backend APIs so that they can be built on a developers machine. Please be sure to name the docker file and provide instructions for building the container image on the local machine.
 
@@ -88,7 +88,7 @@ The following sections describe what is required by you as a candidate for the a
 
 <details>
   <summary>Instruction...</summary>
-  
+
 Given the application code and requirements above please diagram and document the architectural design for the application deployment including:
 
 1. The application architecture as you understand it from the code and description,
