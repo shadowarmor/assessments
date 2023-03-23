@@ -25,6 +25,9 @@ The following sections describe what is required by you as a candidate for the a
 
 ### Junior DevOps Engineer
 
+<details>
+  <summary>User stories...</summary>
+
 1. As a Junior DevOps engineer you are required to create a docker file that will build the `Divergent.Sales.API` component for the backend APIs so that they can be built on a developers machine. Please be sure to name the docker file and provide instructions for building the container image on the local machine.
 
 2. As a Junior DevOps engineer you are required to create a docker file that will build the `Divergent.Sales.API` component for the backend APIs so that they can be built on a developers machine. Please be sure to name the docker file and provide instructions for building the container image on the local machine.
@@ -37,10 +40,15 @@ The following sections describe what is required by you as a candidate for the a
 
 6. As a Junior DevOps engineer you are required to create a docker compose definition to build and run all components for the backend APIs on the developers local machine so that the developer can test the composition apis. Please be sure to name the docker compose file and provide instructions for running the docker compose to test the API system.
 
+</details>
+
 ### DevOps Engineer
 
 > If you require an Azure subscription to test your scripts please create a free Azure subscription [here](https://azure.microsoft.com/en-in/free/).
 > If you require an Azure DevOps environment to test your pipelines please create a free Azure DevOps organization [here](https://azure.microsoft.com/en-us/products/devops/?nav=min).
+
+<details>
+  <summary>User stories...</summary>
 
 1. As a DevOps engineer you are required to create 4 docker files that will build and start the components for the backend APIs and the Web Site so that they can be hosted on a developers machine. Please be sure to name the docker file and provide instructions for building the container image on the local machine.
 
@@ -50,10 +58,15 @@ The following sections describe what is required by you as a candidate for the a
 
 4. As a DevOps engineer you are required to create an automated pipeline using Azure Pipelines in Azure DevOps that will build the container images on the build agent and push the containers to an Azure Container Registry so that the container images are available in a central container registry.
 
+</details>
+
 ### Senior DevOps Engineer
 
 > If you require an Azure subscription to test your scripts please create a free Azure subscription [here](https://azure.microsoft.com/en-in/free/).
 > If you require an Azure DevOps environment to test your pipelines please create a free Azure DevOps organization [here](https://azure.microsoft.com/en-us/products/devops/?nav=min).
+
+<details>
+  <summary>User stories...</summary>
 
 1. As a Senior DevOps engineer you are required to create 4 docker files that will build and start the components for the backend APIs and the Web Site so that they can be hosted on a developers machine. Please be sure to name the docker file and provide instructions for building the container image on the local machine.
 
@@ -69,8 +82,13 @@ The following sections describe what is required by you as a candidate for the a
 
 7. As a Senior DevOps engineer you are required to create an automated pipeline using Azure Pipelines in Azure DevOps that will run the helm install task for the installation of the system to Kubernetes so that the creation of the Kubernetes resources is done through a service principal and in an automated fashion. Please be sure to provide instructions registering the pipeline and any requirements for the service principal and service connections.
 
+</details>
+
 ### Cloud Solutions Architect
 
+<details>
+  <summary>Instruction...</summary>
+  
 Given the application code and requirements above please diagram and document the architectural design for the application deployment including:
 
 1. The application architecture as you understand it from the code and description,
@@ -79,6 +97,8 @@ Given the application code and requirements above please diagram and document th
 4. Any security considerations that you would recommend for the deployment,
 5. Any modernization activities/projects which would improve the architecture,
 6. Any possible issues with the architecture as you see it.
+
+</details>
 
 ## Conclusion
 
